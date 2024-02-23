@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Certifications </h2>
 
-- Comptia Security+ {https://www.credly.com/badges/d3d440bb-7c57-43e9-b594-e01a50482d19}
+- Comptia Security+ {https://www.credly.com/badges/d3d440bb-7c57-43e9-b594-e01a50482d19/public_url}
 
 
 <h2>📺 Popular YouTube Videos</h2>
